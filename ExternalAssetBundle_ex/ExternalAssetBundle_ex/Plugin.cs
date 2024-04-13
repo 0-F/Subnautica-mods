@@ -9,7 +9,7 @@ using Nautilus.Utility;
 using System.Reflection;
 using UnityEngine;
 
-namespace Example_ExternalAssetBundle
+namespace ExternalAssetBundle_ex
 {
     [BepInPlugin(PluginInfo.PLUGIN_GUID, PluginInfo.PLUGIN_NAME, PluginInfo.PLUGIN_VERSION)]
     [BepInDependency("com.snmodding.nautilus")]
